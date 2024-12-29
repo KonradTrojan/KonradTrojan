@@ -5,7 +5,7 @@ I'm Konrad, a backend developer who specializes in Java and the Spring Framework
 
 * ⚡ Link to all of my projects - [repositories](https://github.com/KonradTrojan?tab=repositories).
 * 💼 You can read my resume here - [CV](https://github.com/KonradTrojan/KonradTrojan/blob/main/Konrad%20Trojan%20CV.pdf).
-* 🌱 I’m currently learning Anuglar.
+* 🌱 I’m currently learning Angular.
 * 📚 Branch books I read: *Core Java* (vol. I and II) by Cay S. Horstmann, *Microservices Patterns* by Chris Richardson, *Spring in Action* by Craig Walls.
 
 ## My microservices project 
