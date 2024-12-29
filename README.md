@@ -1,7 +1,7 @@
 ## About me
 
 Hi,
-I'm Konrad, a backend developer who specializes in Java and the Spring Framework. My last object of interest is microservices architecture. My email address is konrad.trojan99@gmail.com.
+I'm Konrad, a backend developer who specializes in Java and the Spring Framework. My last object of interest is microservices architecture. You can reach me at konrad.trojan99@gmail.com.
 
 * ⚡ Link to all of my projects - [repositories](https://github.com/KonradTrojan?tab=repositories).
 * 💼 You can read my resume here - [CV](https://github.com/KonradTrojan/KonradTrojan/blob/main/Konrad%20Trojan%20CV.pdf).
