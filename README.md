@@ -17,11 +17,11 @@ I created a few microservices that use an internal REST API and Kafka to communi
 - 🔒 [selfcloud-security](https://github.com/selfcloud-labs/selfcloud-security/tree/dev) - Manages authentication and authorization, ensuring secure access to the platform. It handles user logins, token generation, and permissions
 - 🌐 [selflcloud-apigateway](https://github.com/selfcloud-labs/selfcloud-apigateway/tree/dev) - Acts as the main gateway, handling external requests and routing them to the appropriate internal microservices. It also provides a unified API interface for the application.
 - 📝 [selfcloud-announcement](https://github.com/selfcloud-labs/selfcloud-announcement/tree/dev) - Allows users to create, manage, and display announcements. It also manages the visibility and categorization of announcements across the platform.
-- 💬 [selfcloud-chat](https://github.com/selfcloud-labs/selfcloud-chat/tree/main) - Provides real-time messaging functionality for users.
+- 💬 [selfcloud-chat](https://github.com/selfcloud-labs/selfcloud-chat/tree/main) - Provides real-time messaging functionality for users using websockets.
 
 ##
 <div align="center">
 Skills: & Technologies:
   
-Java | Spring | Spring Boot | Microservices patterns | RESTful APIs | SQL | Hibernate | Maven | JUnit | Git | SQL | MySQL | PostgreSql | Kafka | Redis | Docker | Kubernetes | IntelliJ IDEA | MySQL Workbench | Postman | 
+Java | Spring | Spring Boot | Microservices patterns | RESTful APIs | SQL | Hibernate | Maven | JUnit | Git | SQL | MySQL | PostgreSql | Kafka | Redis | Docker | Kubernetes | IntelliJ IDEA | MySQL Workbench | Postman | eventuate-tram
 </div>
