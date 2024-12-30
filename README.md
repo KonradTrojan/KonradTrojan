@@ -23,5 +23,5 @@ I created a few microservices that use an internal REST API and Kafka to communi
 <div align="center">
 Skills: & Technologies:
   
-Java | Spring | Spring Boot | Microservices patterns | RESTful APIs | SQL | Hibernate | Maven | JUnit | Git | SQL | MySQL | PostgreSql | Kafka | Redis | Docker | Kubernetes | IntelliJ IDEA | MySQL Workbench | Postman | eventuate-tram
+Java | Spring | Spring Boot | Microservices patterns | RESTful APIs | SQL | Hibernate | Maven | JUnit | Mockito | Git | SQL | MySQL | PostgreSql | Kafka | Redis | Docker | Kubernetes | IntelliJ IDEA | MySQL Workbench | Postman | Flyway | eventuate-tram
 </div>
